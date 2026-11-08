@@ -1,0 +1,6 @@
+   {
+       "terminal.integrated.env.windows": {
+           "PYTHONPATH": "src"
+       },
+       "python.analysis.extraPaths": ["src"]
+   }
